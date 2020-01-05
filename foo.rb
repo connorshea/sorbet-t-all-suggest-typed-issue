@@ -1,4 +1,4 @@
-# typed: true
+# typed: false
 extend T::Sig
 
 module I1
